@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical">
+<TextView  
+    android:layout_height="wrap_content" 
+    android:text="@string/hello" android:textSize="24px" android:layout_gravity="center_horizontal" android:width="75px" android:layout_width="66dp"/>
+<ImageView android:src="@drawable/hermes" android:id="@+id/imageView1" android:layout_gravity="center_horizontal" android:layout_width="200dp" android:layout_height="235dp"></ImageView>
+<Button android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/btnScan" android:text="Find me a Robot"></Button>
+</LinearLayout>

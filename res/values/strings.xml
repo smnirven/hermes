@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">HERMES</string>
+    <string name="app_name">Hermes</string>
+    <string name="bluetooth_canceled">Listen up, pilgrim - hermes needs bluetooth to function, so quit messing about and enable it</string>
+    <string name="no_bluetooth">Ummm...so there\'s no bluetooth - yeah...</string>
+</resources>
